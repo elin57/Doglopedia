@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     width: 600px;
     margin: auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -11,6 +10,7 @@ body {
     margin: 10px 0px;
     color: rgb(159, 130, 91);
     border-radius: 5px;
+    text-align: center;
 }
 
 #image {
@@ -25,9 +25,17 @@ body {
     border: 1px solid black;
     border-bottom-width: 2px;
     margin: 0 auto;
-
 }
 
+main {
+    border: solid lightgrey;
+    border-width: 1px 0px;
+}
+
+main h3 {
+    font-size: 22px;
+    text-align: center;
+}
 
 
 
