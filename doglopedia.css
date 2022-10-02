@@ -1,3 +1,18 @@
 body {
     text-align: center;
+    width: 600px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#heading {
+    background-color: beige;
+    padding: 20px;
+    margin: 10px 0px;
+    color: rgb(159, 130, 91);
+    border-radius: 5px;
+}
+
+
+
+
