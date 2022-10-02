@@ -7,7 +7,7 @@ body {
 #heading {
     background-color: beige;
     padding: 20px;
-    margin: 10px 0px;
+    margin: 10px 0px 0px 0px;
     color: rgb(159, 130, 91);
     border-radius: 5px;
     text-align: center;
@@ -17,13 +17,12 @@ body {
     background-image: url("images/husky.jpg");
     width: 300px;
     height: 300px;
-    box-sizing: border-box;
     background-size: 270px;
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 50%;
     border: 1px solid black;
-    border-bottom-width: 2px;
+    border-bottom-width: 3px;
     margin: 0 auto;
 }
 
@@ -33,7 +32,7 @@ main {
 }
 
 main h3 {
-    font-size: 22px;
+    font-size: 23px;
     text-align: center;
 }
 
@@ -42,4 +41,12 @@ footer {
     padding: 20px;
 }
 
+a {
+    display: inline-block;
+    color: black;
+    padding: 15px;
+}
 
+nav {
+    text-align: center;
+}
