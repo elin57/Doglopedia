@@ -13,6 +13,20 @@ body {
     border-radius: 5px;
 }
 
+#image {
+    background-image: url("images/husky.jpg");
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    background-size: 270px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
 
 
 
